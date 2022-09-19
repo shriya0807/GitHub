@@ -17,6 +17,7 @@
 		54BFFA4328D85E3800B74F2C /* GitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BFFA4228D85E3800B74F2C /* GitHubTests.swift */; };
 		54BFFA4D28D85E3800B74F2C /* GitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BFFA4C28D85E3800B74F2C /* GitHubUITests.swift */; };
 		54BFFA4F28D85E3800B74F2C /* GitHubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BFFA4E28D85E3800B74F2C /* GitHubUITestsLaunchTests.swift */; };
+		54BFFA5C28D8777200B74F2C /* NewSwiftFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BFFA5B28D8777200B74F2C /* NewSwiftFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		54BFFA4828D85E3800B74F2C /* GitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		54BFFA4C28D85E3800B74F2C /* GitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUITests.swift; sourceTree = "<group>"; };
 		54BFFA4E28D85E3800B74F2C /* GitHubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		54BFFA5B28D8777200B74F2C /* NewSwiftFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewSwiftFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				54BFFA3628D85E3800B74F2C /* LaunchScreen.storyboard */,
 				54BFFA3928D85E3800B74F2C /* Info.plist */,
 				54BFFA3128D85E3600B74F2C /* GitHub.xcdatamodeld */,
+				54BFFA5B28D8777200B74F2C /* NewSwiftFile.swift */,
 			);
 			path = GitHub;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				54BFFA2928D85E3600B74F2C /* AppDelegate.swift in Sources */,
 				54BFFA3328D85E3600B74F2C /* GitHub.xcdatamodeld in Sources */,
 				54BFFA2B28D85E3600B74F2C /* SceneDelegate.swift in Sources */,
+				54BFFA5C28D8777200B74F2C /* NewSwiftFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
